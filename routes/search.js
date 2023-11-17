@@ -32,7 +32,8 @@ router.post("/product", async (req, res, next) => {
 
     productDetails = productDetails.sort(sorterDesc("countReview"));
     productDetails = productDetails.sort(sorterDesc("productRating"));
-    const response = productDetails.sort(sorterAsc("price"));
+    productDetails = productDetails.sort(sorterAsc("price"));
+    const response = productDetails.slice(0, 50);
 
     if (response.error) {
       res.status(400).send({
