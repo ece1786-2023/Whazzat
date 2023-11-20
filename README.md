@@ -9,4 +9,4 @@ We used appsmith to host our frontend https://app.appsmith.com/app/whazzat/home-
 Currently dummy data for fork and spoon will come for any prompt.
 
 The initial Llama2 model that we are using in google colab is in this repo, named as fine_tune_llama2
-We are using peft (parameter efficient fine tuning) to be able to run and finetune the Llama2 model in google colab's free edition. If it does not go as planned we will use paid edition.
+We are using peft (parameter efficient fine tuning) to be able to run and finetune the Llama2 model in google colab's free edition. If it does not go as plan we will use paid edition.
