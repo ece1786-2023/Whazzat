@@ -8,7 +8,7 @@
 ```bash
 $ curl -X POST https://productsearchapi-vdvgfog7kq-uc.a.run.app/api/v1/search/product
    -H 'Content-Type: application/json'
-   -d '{"search_prompt": "abc"}'
+   -d '{"search_prompt": YOUR_PROMPT}'
 ```
 ```bash
 # Response:
