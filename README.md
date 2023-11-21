@@ -33,7 +33,7 @@ $ curl -X POST https://productsearchapi-vdvgfog7kq-uc.a.run.app/api/v1/search/pr
 ```
 ✅ Appsmith to host our frontend https://app.appsmith.com/app/whazzat/home-6556f707c8bcd467b929daa4 
 
-✅ fine_tune_llama2.ipynb is our initial Llama2 model that we are using in google colab. QLora based peft (parameter efficient fine tuning) is used to be able to run and finetune the Llama2 model in google colab's free edition. If it does not go as plan we will use paid edition.
+✅ fine_tune_llama2.ipynb is our initial Llama2 model that we are using in google colab. QLoRA based peft (parameter efficient fine tuning) is used to be able to run and finetune the Llama2 model in google colab's free edition. If it does not go as plan we will use paid edition.
 
 ![Alt text](image.png)
 
