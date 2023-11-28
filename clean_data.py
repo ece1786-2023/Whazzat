@@ -65,7 +65,7 @@ def create_dataset(input_filename='Data/unique_dataset.txt'):
     
     dataset = Dataset(pa.Table.from_pandas(df))
     file.close()
-    os.remove(input_filename)
+    # os.remove(input_filename)
     print(type(dataset))
     print(dataset[0])
 
