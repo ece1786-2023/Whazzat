@@ -35,7 +35,8 @@ if user_input and button :
         device_map="auto",
         max_length=250,
         do_sample=True,
-        top_k=10,
+        top_k=10, 
+        token='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'
     )
     template = """
            You are an expert product recommender,
