@@ -42,33 +42,48 @@ def remove_redundancies(input_filename='Data/cleaned_dataset.txt',output_filenam
 
 
 
-def create_dataset(input_filename='Data/unique_dataset.txt'):
-    file=open(input_filename, encoding="utf8")
-    lines=file.readlines()
-    input_arr=[]
-    output_arr=[]
-    joined_arr=[]
-    for line in lines:
+# def create_dataset(input_filename='Data/unique_dataset.txt'):
+#     file=open(input_filename, encoding="utf8")
+#     lines=file.readlines()
+#     input_arr=[]
+#     output_arr=[]
+#     joined_arr=[]
+#     for line in lines:
 
-        input=line.split(',')[0]
-        output=line.split(',',1)[-1]
-        input_arr.append(input)
-        output_arr.append(output)
-        joined_arr.append(f'<s>[INST] {input} [/INST] {output}')
+#         input=line.split(',')[0]
+#         output=line.split(',',1)[-1]
+#         input_arr.append(input)
+#         output_arr.append(output)
+#         joined_arr.append(f'<s>[INST] {input} [/INST] {output}</s')
 
 
-    ### convert to Huggingface dataset ###
-    # df = pd.DataFrame({'input': input_arr, 'output': output_arr})
-    df = pd.DataFrame({'text': joined_arr})
-    data = ds.dataset(pa.Table.from_pandas(df).to_batches())
+#     ### convert to Huggingface dataset ###
+#     # df = pd.DataFrame({'input': input_arr, 'output': output_arr})
+#     df = pd.DataFrame({'text': joined_arr})
+#     data = ds.dataset(pa.Table.from_pandas(df).to_batches())
 
     
-    dataset = Dataset(pa.Table.from_pandas(df))
-    file.close()
-    # os.remove(input_filename)
-    print(type(dataset))
-    print(dataset[0])
+#     dataset = Dataset(pa.Table.from_pandas(df))
+#     file.close()
+#     # os.remove(input_filename)
+#     print(type(dataset))
+#     print(dataset[0])
 
+def create_dataset(input_filename='data/unique_dataset.txt'):
+  file = open(input_filename,'r')
+  file_out=open('data/model_data.txt','w')
+  for i in file:
+    i=i.replace('\n','')
+    str=i.split(',')
+    for idx,v in enumerate(str):
+      str[idx]=str[idx].strip()    
+    # print(f'{str[1:]}')
+    # str[-1]=str[-1].lstrip()
+    line = f'<s>[INST]{str[0]}[/INST]{str[1:]}</s>'
+    file_out.write(line+'\n')
+  file.close()
+  file_out.close()
+  os.remove(input_filename)
 
 remove_characters()
 remove_redundancies()
