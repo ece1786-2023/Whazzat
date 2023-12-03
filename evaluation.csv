@@ -1,0 +1,64 @@
+,input,output,class
+0,something for a new cooking hobby," ['KitchenAid Stand Mixer', 'All-Clad Stainless Steel 10-Piece Cookware Set', 'Instant Pot Pressure Cooker', 'Keurig K-Mini Plus Coffee Maker', 'Anolon Advanced Hard-An",output: positive
+1,need something cozy for a winter evening at home," ['Faux Fur Blanket', 'Plush Throw Blanket', 'Wool Blanket', 'Slippers', 'Candle']",output: positive
+2,something for grilling fish," ['Grill Pan', 'Fish Grill Mat', 'Fish Skewers', 'Fish Tray', 'BBQ Gloves']",output: positive
+3,something for making homemade candy," ['Candy Making Kit', 'Chocolate Melter', 'Candy Thermometer', 'Flavor Extracts', 'Candy Mold']",positive
+4,something for making homemade pad thai," ['Rice Noodles', 'Tamarind Paste', 'Peanut Butter', 'Coconut Milk', 'Lime Juice']",positive
+5,something for making pancakes," ['Pan', 'Spatula', 'Measuring Cups', 'Baking Powder', 'Syrup Bottle']",output: positive
+6,something for an organized workspace," ['Desk Organizer', 'Task Light', 'Whiteboard', 'Paperweight', 'Inbox Organizer']",output: positive
+7,something for a refreshing morning routine," ['Green Tea Bags', 'Aloe Vera Gel', 'Lemon Squeezer', 'Aromatherapy Essential Oil', 'Morning Sunrise Simulation Lamp']",output: positive
+8,something for a backyard party," ['Patio Furniture Set', 'Outdoor Speakers', 'Garden Umbrella', 'Outdoor Heaters', 'Barbecue Grill']",output: positive
+9,something for an outdoor picnic," ['Portable Blanket and Pillow', 'Folding Table and Chairs', 'Waterproof Blanket', 'Cooler Bag', 'Outdoor Throw Pillows']",output: positive
+10,something for a focused study session," ['Comfortable Chair', 'Laptop Stand', 'Noise-Cancelling Headphones', 'Whiteboard and Markers', 'Focused Study Light']",output: positive
+11,something for a cozy night in," ['Faux Fur Blanket', 'Scented Candle', 'Wine Glasses', 'Comfortable Pajamas', 'Popcorn Maker']",output: positive
+12,something for making homemade rice dishes," ['Rice Cooker', 'Measuring Cups and Spoons', 'Mixing Bowl', 'Vegetable Peeler', 'Kitchen Shears']",output: positive
+13,something for a virtual workout," ['Exercise Bike', 'Treadmill', 'Yoga Mat', 'Resistance Bands', 'Fitness App']",positive
+14,something for making homemade pizza," ['Pizza Stone','Pizza Peel','Pizza Cutter','Pizza Wheel','Cheese Grater']",positive
+15,something for grilling vegetables," ['Grill Pan', 'Vegetable Peeler', 'Skewers', 'BBQ Gloves', 'Meat Tenderizer']",output: positive
+16,something for making homemade chili," ['Canned Tomatoes', 'Ground Beef', 'Onions', 'Chili Powder', 'Jalapenos']",output: positive
+17,something for a productive remote work setup," ['Ergonomic Chair', 'Luxury Desk Pad', 'Noise Canceling Headphones', 'Wireless Mouse', 'Productivity App']",positive
+18,something for making homemade paella," ['Paella Pan', 'Rice Cooker', 'Saffron', 'Chorizo', 'Arroz']",output: positive
+19,looking for a tech gadget to track fitness activities," ['Fitbit Charge 3', 'Apple Watch Series 5', 'Garmin Forerunner 945', 'Polar M430', 'Samsung Galaxy Fit']",output: positive
+20,something for a focused workday," ['Laptop Bag and Backpack', 'Portable Power Bank', 'Noise Cancelling Headphones', 'Ergonomic Office Chair', 'Productivity Planner']",output: positive
+21,something for making homemade yogurt," ['Yogurt Maker Machine', 'Glass Yogurt Jar', 'Yogurt Spoon', 'Cultures for Homemade Yogurt', 'Cheesecloth']",output: positive
+22,something for making homemade satay," ['Satay Sauce Mix', 'Peanut Oil', 'Skewers', 'Bamboo Rack', 'Satay Holders']",positive
+23,something for a game night with friends," ['Board Game Collection','Card Game Set','Miniature Game Pieces','Game Night Light Kit','Game Night Tray']",output: positive
+24,something for making homemade vegetable broth," ['Instant Pot Pressure Cooker', 'Vegetable Peeler', 'Immersion Blender', 'Mason Jars with Lids', 'Bonus: Vegetable Broth Cookbook']",output: positive
+25,something for painting walls," ['Paint Rollers and Trays', 'Painter's Tape', 'Drop Cloth', 'Paint Brushes', 'Primer Spray']",output: positive
+26,something for outdoor camping," ['Tent','Sleeping Bag','Camping Stove','Water Bottle','Hiking Boots']",output: positive
+27,something for a green smoothie lover," ['Blender', 'Nut Milcher', 'Green Smoothie Recipe Book', 'Froothie', 'Oral B Blender']","output: 
+relevant: 'blender', 'nut milcher', 'green smoothie recipe book'
+irrelevant: 'froothie', 'oral b blender'"
+28,something for mixing ingredients," ['Mixing Bowl with Lid', 'Hand Mixer', 'Stand Mixer', 'Measuring Cups and Spoons', 'Kitchen Scale']",output: positive
+29,something for making homemade sushi rolls," ['Sushi Rice Cooker', 'Nori Sheets', 'Sushi Knife', 'Sushi Mat', 'Sushi Flavored Vinegar']",output: positive
+30,musical instruments for beginners," ['Acoustic Guitar', 'Electric Guitar', 'Drums', 'Piano', 'Ukulele']",output: positive
+31,something for chopping vegetables," ['Kitchen Knife Set', 'Vegetable Chopper', 'Cutting Board', 'Kitchen Shears', 'Mandoline Slicer']",output: positive
+32,item for organizing a home office space," ['Desk Organizer', 'File Cabinet', 'Office Chair', 'Desk Lamp', 'Wall Shelf']",output: positive
+33,something for a camping trip," ['Tent','Sleeping Bag','Camping Stove','Water Bottle','Hiking Boots']",output: positive
+34,something for a home gym setup," ['Exercise Bike', 'Treadmill', 'Adjustable Dumbbells', 'Resistance Bands', 'Kettlebell']",positive
+35,something for an adventurous hike," ['Hiking Boots', 'Water Bottle', 'First Aid Kit', 'Sunscreen', 'Tent']",output: positive
+36,searching for tools to enhance gardening experience," ['Gardening Gloves', 'Trowel', 'Hand Pruner', 'Hoe', 'Rake']",output: positive
+37,something for making homemade chicken broth," ['Chicken Stock Pot', 'Onion', 'Garlic', 'Celery', 'Bay Leaves']",output: positive
+38,something for a delicious dessert making," ['Stand Mixer', 'Immersion Blender', 'KitchenAid Mixer', 'Artisanal Gelato Machine', 'Chocolate Fondue Set']",output: positive
+39,something for serving salads," ['Salad Bowls', 'Dressing Cups', 'Cutting Board', 'Knife Set', 'Fruit Tongs']",output: positive
+40,something for coffee lovers," ['Coffee Maker', 'Coffee Grinder', 'Coffee Beans', 'Coffee Cups', 'Coffee Spoons']",output: positive
+41,something for a sunny beach day," ['Sunglasses', 'Sunscreen', 'Beach Towel', 'Flip Flops', 'Water Bottle']",output: positive
+42,something for a crafty diy project," ['Woodworking Tools Kit', 'Paints and Brushes', 'Craft Sticks and Glue', 'Fabric Scissors', 'Sewing Machine']",output: positive
+43,something for making pasta," ['Pasta Machine', 'Rolling Pin', 'Measuring Cups and Spoons', 'Pasta Colander', 'Pasta Dough Mixer']",output: positive
+44,something for a relaxing bath," ['Bath Bombs', 'Epsom Salt', 'Bath Salts', 'Scented Candles', 'Foam Bath Mat']",positive
+45,something for a tropical getaway," ['Sunscreen', 'Swimsuit', 'Beach Towel', 'Flip Flops', 'Sunglasses']",output: positive
+46,something for a bedroom decor update," ['Bed Frame with Storage', 'Bedside Table with Lamp', 'Wall Art', 'Comforter Set', 'Rug']",positive
+47,something for a home workout," ['Exercise Bike', 'Treadmill', 'Kettlebell', 'Yoga Mat', 'Resistance Bands']",output: positive
+48,something for a road trip adventure," ['Travel Backpack','Portable Charger','Travel Toiletry Bag','Road Map and Guidebook', 'Sunglasses']",output: positive
+49,something for a coastal road trip," ['Surfboard','Sunglasses','Sunscreen','Beach Towel','Road Trip GPS']",output: positive
+50,something for juicing," ['Juicer Machine', 'Fresh Press Juicer', 'Centrifugal Juicer', 'Masticating Juicer', 'Nutrient Extractor']",positive
+51,something for a cozy nights sleep," ['Soft Blanket', 'Fuzzy Pajamas', 'Sleep Mask', 'Nature Sounds Machine', 'Weighted Blanket']",output: positive
+52,something for a weekend getaway," ['Travel Backpack', 'Portable Charger', 'Sunglasses', 'Water Bottle', 'Scarf']",output: positive
+53,something for a cozy reading nook," ['Comfortable Reading Chair', 'Soft Blanket', 'Good Lighting', 'Bookshelf', 'Coffee Table']",output: positive
+54,something for making homemade bone broth," ['Instant Pot','Crock-Pot','Mason Jars with Lids and Latches','Bone Broth Kit']",output: positive
+55,something for a sustainable kitchen," ['Reusable Water Bottle', 'Eco-Friendly Cutting Board', 'Compost Bin', 'Sustainable Cutlery Set', 'Energy-Efficient Slow Cooker']",output: positive
+56,something for a creative art project," ['Art Supplies Kit', 'Canvas and Paint', 'Pencils and Sketchbook', 'Photography Equipment', 'Sculpture Tools']",output: positive
+57,something for grilling," ['Grill Pan', 'BBQ Sauce', 'Grill Brush', 'Grill Basket', 'Meat Thermometer']",output: positive
+58,something for making homemade guacamole," ['Avocado'], ['Lime'], ['Jalapeno Pepper'], ['Cilantro'], ['Cotija Cheese']",output: positive
+59,something for gardening," ['Gardening Gloves', 'Hand Trowel', 'Rake', 'Watering Can', 'Garden Pruner']",output: positive
+60,something for a diy home improvement project," ['Power Drill', 'Circular Saw', 'Reciprocating Saw', 'Tile Cutter', 'Level']",output: positive

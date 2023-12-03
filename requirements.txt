@@ -1,0 +1,9 @@
+gc==0.0.1
+torch==1.10.0
+platform==1.0.0
+trl==0.0.1
+tensorboard==2.10.0
+datasets==1.17.0
+huggingface-hub==0.0.8
+transformers==4.12.2
+peft==1.0.0
