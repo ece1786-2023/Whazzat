@@ -1,243 +1,243 @@
-<s>[INST]looking for a tech gadget to track fitness activities[/INST]['smart fitness tracker', 'gps smartwatch']</s>
-<s>[INST]searching for tools to enhance gardening experience[/INST]['pruning shears', 'soil moisture meter']</s>
-<s>[INST]something for making a stir fry[/INST]['wok', 'spatula']</s>
-<s>[INST]need something cozy for a winter evening at home[/INST]['faux fur blanket', 'electric fireplace']</s>
-<s>[INST]want to upgrade my gaming setup[/INST]['gaming mouse', 'rgb mechanical keyboard']</s>
-<s>[INST]planning a healthy cooking routine[/INST]['air fryer', 'nutribullet blender']</s>
-<s>[INST]something for serving salads[/INST]['salad bowl', 'serve tongs']</s>
-<s>[INST]looking for educational toys for a yearold[/INST]['stem building blocks', 'interactive learning tablet']</s>
-<s>[INST]item for organizing a home office space[/INST]['ergonomic office chair', 'adjustable desk organizer']</s>
-<s>[INST]something for baking[/INST]['measuring cups', 'silicone baking mats']</s>
-<s>[INST]need travel essentials for a backpacking trip[/INST]['lightweight camping tent', 'compact sleeping bag']</s>
-<s>[INST]musical instruments for beginners[/INST]['acoustic guitar starter kit', 'digital piano']</s>
-<s>[INST]searching for ecofriendly kitchenware[/INST]['bamboo utensil set', 'stainless steel reusable straws']</s>
-<s>[INST]something for chopping vegetables effectively[/INST]['sharp chefs knife', 'vegetable chopper']</s>
-<s>[INST]something for slicing bread evenly[/INST]['serrated bread knife', 'bread slicer']</s>
-<s>[INST]something for eating soup or cereal[/INST]['soup spoon', 'cereal bowl']</s>
-<s>[INST]something for grilling meat or vegetables[/INST]['grill tongs', 'grill brush']</s>
-<s>[INST]something for whisking eggs or batter[/INST]['wire whisk', 'electric hand mixer']</s>
-<s>[INST]something to brew coffee[/INST]['coffee maker', 'coffee grinder']</s>
-<s>[INST]something for grating cheese[/INST]['cheese grater', 'microplane grater']</s>
-<s>[INST]something for baking pizzas[/INST]['pizza stone', 'pizza cutter']</s>
-<s>[INST]something for peeling potatoes[/INST]['vegetable peeler', 'potato peeler']</s>
-<s>[INST]something for making fresh juice[/INST]['juicer', 'citrus squeezer']</s>
-<s>[INST]something for preserving food[/INST]['mason jars', 'vacuum sealer']</s>
-<s>[INST]something for roasting chicken[/INST]['roasting pan', 'basting brush']</s>
-<s>[INST]something for making smoothies[/INST]['blender', 'portable blender']</s>
-<s>[INST]something for whipping cream[/INST]['whisk', 'electric hand mixer']</s>
-<s>[INST]something to make smoothies[/INST]['blender', 'handheld immersion blender']</s>
-<s>[INST]something for grilling[/INST]['grill brush', 'grill tongs', 'grill spatula']</s>
-<s>[INST]something to organize spices[/INST]['spice rack', 'spice jars with labels']</s>
-<s>[INST]something for coffee lovers[/INST]['coffee grinder', 'french press', 'coffee mugs']</s>
-<s>[INST]something for tea enthusiasts[/INST]['tea infuser', 'tea kettle', 'teapot']</s>
-<s>[INST]something for meal prep[/INST]['meal prep containers', 'meal prep bag']</s>
-<s>[INST]something for chopping vegetables[/INST]['chefs knife', 'vegetable chopper']</s>
-<s>[INST]something for barbecues[/INST]['grill skewers', 'meat thermometer', 'grill gloves']</s>
-<s>[INST]something for baking cookies[/INST]['cookie sheets', 'cookie cutters', 'cooling rack']</s>
-<s>[INST]something for making pasta[/INST]['pasta machine', 'pasta drying rack']</s>
-<s>[INST]something for making sushi[/INST]['sushi mat', 'sushi knife', 'bamboo rolling mat']</s>
-<s>[INST]something for canning[/INST]['canning jars', 'canning funnel', 'canning tongs']</s>
-<s>[INST]something for juicing[/INST]['juicer', 'citrus squeezer']</s>
-<s>[INST]something for making cocktails[/INST]['cocktail shaker', 'muddler', 'jigger']</s>
-<s>[INST]something for mixing ingredients[/INST]['mixing bowls', 'electric hand mixer']</s>
-<s>[INST]something for cutting pizza[/INST]['pizza cutter', 'pizza stone']</s>
+<s>[INST]something for making homemade yogurt parfait[/INST]['parfait glasses', 'granola toppings']</s>
 <s>[INST]something for baking bread[/INST]['bread machine', 'bread proofing basket']</s>
-<s>[INST]something for making pancakes[/INST]['pancake griddle', 'pancake batter dispenser']</s>
-<s>[INST]something for roasting[/INST]['roasting pan', 'roasting rack']</s>
-<s>[INST]something for steaming vegetables[/INST]['steamer basket', 'silicone steamer']</s>
-<s>[INST]something for storing leftovers[/INST]['food storage containers', 'silicone food covers']</s>
-<s>[INST]something for making homemade ice cream[/INST]['ice cream maker', 'ice cream scoop']</s>
-<s>[INST]something for sharpening knives[/INST]['knife sharpener', 'honing steel']</s>
-<s>[INST]something for grating vegetables[/INST]['vegetable spiralizer', 'box grater']</s>
-<s>[INST]something for making omelettes[/INST]['omelette pan', 'egg whisk']</s>
-<s>[INST]something for grilling fish[/INST]['fish grill basket', 'fish spatula']</s>
-<s>[INST]something for slow cooking[/INST]['slow cooker', 'slow cooker liners']</s>
-<s>[INST]something for baking pies[/INST]['pie dish', 'pie weights']</s>
-<s>[INST]something for making crepes[/INST]['crepe pan', 'batter spreader']</s>
-<s>[INST]something for cutting herbs[/INST]['herb scissors', 'herb stripper']</s>
+<s>[INST]something for making homemade yogurt[/INST]['yogurt maker', 'yogurt starter']</s>
+<s>[INST]something for a focused workday[/INST]['ergonomic desk chair', 'noisecancelling headphones']</s>
+<s>[INST]planning a healthy cooking routine[/INST]['air fryer', 'nutribullet blender']</s>
+<s>[INST]something for a productive remote work setup[/INST]['adjustable standing desk', 'ergonomic chair']</s>
+<s>[INST]something for a stylish wardrobe update[/INST]['statement necklace', 'designer handbag']</s>
+<s>[INST]something for a relaxing bath[/INST]['bath bombs', 'fluffy bathrobe']</s>
+<s>[INST]something for making homemade chocolate truffles[/INST]['truffle molds', 'chocolate ganache']</s>
+<s>[INST]something for a rainy day indoors[/INST]['board games', 'cozy throw blanket']</s>
+<s>[INST]something for a green smoothie lover[/INST]['blender', 'reusable straws']</s>
+<s>[INST]something for a backyard bbq[/INST]['bbq grill', 'grill tool set']</s>
+<s>[INST]something for a healthy breakfast[/INST]['smoothie blender', 'organic granola']</s>
+<s>[INST]something for a cozy movie marathon[/INST]['popcorn maker', 'oversized bean bag chair']</s>
+<s>[INST]something for making pasta[/INST]['pasta machine', 'pasta drying rack']</s>
+<s>[INST]something for a home office setup[/INST]['ergonomic chair', 'adjustable standing desk']</s>
+<s>[INST]something for a relaxing bubble bath[/INST]['bath tray', 'scented bath bubbles']</s>
+<s>[INST]something for outdoor camping[/INST]['tent', 'sleeping bag', 'portable stove']</s>
+<s>[INST]something for a kitchen upgrade[/INST]['stand mixer', 'knife block set']</s>
+<s>[INST]something for a petfriendly home[/INST]['pet hair vacuum', 'petfriendly rug']</s>
+<s>[INST]something for an ecofriendly lifestyle[/INST]['reusable water bottle', 'ecofriendly lunchbox']</s>
+<s>[INST]something for a techsavvy lifestyle[/INST]['wireless charging pad', 'smart home thermostat']</s>
+<s>[INST]something for a warming winter soup[/INST]['immersion blender', 'soup pot']</s>
+<s>[INST]something for a morning coffee ritual[/INST]['pourover coffee maker', 'milk frother']</s>
+<s>[INST]something for brewing coffee[/INST]['coffee grinder', 'french press', 'espresso machine']</s>
+<s>[INST]something for a vibrant succulent garden[/INST]['decorative planters', 'succulent fertilizer']</s>
+<s>[INST]something for a festive party[/INST]['string lights', 'cocktail shaker']</s>
+<s>[INST]something for an organized workspace[/INST]['desk organizer with wireless charging', 'ergonomic chair']</s>
+<s>[INST]something for juicing[/INST]['juicer', 'citrus squeezer']</s>
+<s>[INST]something for a home workout[/INST]['resistance bands', 'yoga mat']</s>
+<s>[INST]something for a peaceful yoga practice[/INST]['yoga bolster', 'meditation cushion']</s>
+<s>[INST]something for a crafty diy project[/INST]['craft supplies set', 'glue gun']</s>
+<s>[INST]something for a mindful meditation practice[/INST]['meditation cushion', 'aromatherapy diffuser']</s>
+<s>[INST]something for a gaming setup[/INST]['gaming chair', 'wireless gaming headset']</s>
+<s>[INST]something for a refreshing skincare routine[/INST]['facial steamer', 'jade roller']</s>
+<s>[INST]something for a cozy knitting session[/INST]['yarn set', 'knitting needles']</s>
+<s>[INST]something for a baking enthusiast[/INST]['stand mixer with various attachments', 'baking essentials set']</s>
+<s>[INST]something for grating cheese[/INST]['cheese grater', 'microplane grater']</s>
+<s>[INST]something for organizing a closet[/INST]['storage bins', 'hangers', 'shoe rack']</s>
+<s>[INST]something for an outdoor picnic[/INST]['picnic basket', 'picnic blanket']</s>
+<s>[INST]something for a future travel adventure[/INST]['travel luggage', 'travel guidebooks']</s>
+<s>[INST]something for a healthy lunch prep[/INST]['salad spinner', 'bento box']</s>
+<s>[INST]something for a sunny beach day[/INST]['beach umbrella', 'cooler tote']</s>
+<s>[INST]something for a weekend getaway[/INST]['travel backpack', 'portable hammock']</s>
+<s>[INST]something for a refreshing morning routine[/INST]['citrus juicer', 'french press coffee maker']</s>
+<s>[INST]something for a garden party[/INST]['outdoor string lights', 'portable speaker']</s>
+<s>[INST]something for a peaceful reading time[/INST]['bookshelf', 'reading chair']</s>
+<s>[INST]something for a backyard garden[/INST]['gardening tools set', 'plant pots']</s>
+<s>[INST]something for a cozy reading nook[/INST]['adjustable reading lamp', 'cozy throw blanket']</s>
+<s>[INST]something for a productive workday[/INST]['standing desk', 'ergonomic chair']</s>
+<s>[INST]something for a music lovers space[/INST]['vinyl record player', 'bluetooth speakers']</s>
+<s>[INST]something for a playful pet[/INST]['interactive puzzle feeder for dogs', 'cat scratching post']</s>
+<s>[INST]something for a weekend brunch[/INST]['waffle maker', 'mimosa glasses']</s>
+<s>[INST]something for a summer workout[/INST]['resistance bands', 'water bottle']</s>
+<s>[INST]something for a beach day[/INST]['beach umbrella', 'insulated cooler bag']</s>
+<s>[INST]something for a cozy winter evening[/INST]['heated throw blanket', 'hot cocoa mix']</s>
+<s>[INST]something for painting walls[/INST]['paint roller', 'paintbrush set', 'drop cloth']</s>
+<s>[INST]something for a highenergy workout[/INST]['jump rope', 'kettlebell']</s>
+<s>[INST]something for a tropical vacation[/INST]['sun hat', 'beach tote bag']</s>
+<s>[INST]something for a productive work session[/INST]['ergonomic office chair', 'wireless keyboard']</s>
+<s>[INST]something for preserving food[/INST]['mason jars', 'vacuum sealer']</s>
+<s>[INST]something for a refreshing shower[/INST]['rainfall showerhead', 'spaquality towels']</s>
+<s>[INST]something for grilling meat or vegetables[/INST]['grill tongs', 'grill brush']</s>
+<s>[INST]something for making homemade fruit leather[/INST]['dehydrator', 'fruit puree']</s>
+<s>[INST]something for a mini home gym[/INST]['workout resistance bands', 'exercise mat']</s>
+<s>[INST]something for a backyard barbecue[/INST]['bbq grill', 'grilling utensil set']</s>
+<s>[INST]something for upgrading home office setup[/INST]['dual monitor stand', 'ergonomic chair']</s>
+<s>[INST]something for a family camping trip[/INST]['familysized tent', 'camping stove']</s>
+<s>[INST]something for an adventurous hike[/INST]['hiking boots', 'hydration backpack']</s>
+<s>[INST]something for a weekend escape[/INST]['compact travel hammock', 'portable picnic set']</s>
+<s>[INST]something for a cocktail mixing enthusiast[/INST]['complete mixology kit', 'cocktail glasses']</s>
+<s>[INST]something for a sustainable kitchen[/INST]['stainless steel compost bin', 'reusable produce bags']</s>
+<s>[INST]something for a beach day with kids[/INST]['beach toys', 'sun shelter tent']</s>
+<s>[INST]something for making homemade bread crumbs[/INST]['food processor', 'bread slices']</s>
 <s>[INST]something for making homemade pasta sauce[/INST]['saucepan', 'immersion blender']</s>
-<s>[INST]something for making homemade baby food[/INST]['baby food maker', 'baby food storage containers']</s>
-<s>[INST]something for grilling vegetables[/INST]['vegetable grill basket', 'grill pan']</s>
-<s>[INST]something for making quesadillas[/INST]['quesadilla maker', 'quesadilla press']</s>
-<s>[INST]something for grilling burgers[/INST]['burger press', 'grill press']</s>
-<s>[INST]something for making sushi rolls[/INST]['sushi knife', 'sushi rolling mat']</s>
-<s>[INST]something for baking muffins[/INST]['muffin tin', 'muffin liners']</s>
-<s>[INST]something for making waffles[/INST]['waffle maker', 'waffle mix']</s>
-<s>[INST]something for cutting watermelon[/INST]['watermelon slicer', 'watermelon knife']</s>
-<s>[INST]something for making homemade pizza[/INST]['pizza stone', 'pizza peel']</s>
+<s>[INST]something for gardening[/INST]['gardening gloves', 'shovel', 'pruning shears']</s>
+<s>[INST]something for a creative writing session[/INST]['leather']</s>
+<s>[INST]something for upgrading home decor[/INST]['artificial plants', 'decorative vases']</s>
+<s>[INST]something for a casual weekend brunch[/INST]['avocado slicer', 'mimosa glasses']</s>
+<s>[INST]something for grilling[/INST]['grill brush', 'grill tongs', 'grill spatula']</s>
 <s>[INST]something for making homemade pasta[/INST]['pasta machine', 'pasta drying rack']</s>
-<s>[INST]something for grilling corn on the cob[/INST]['corn on the cob holders', 'corn grill basket']</s>
+<s>[INST]something for a healthy lifestyle[/INST]['yoga mat', 'healthy cookbooks']</s>
+<s>[INST]something for a cozy night in[/INST]['weighted blanket', 'scented candles']</s>
+<s>[INST]searching for tools to enhance gardening experience[/INST]['pruning shears', 'soil moisture meter']</s>
+<s>[INST]something for a home spa day[/INST]['luxury bath bombs', 'plush bathrobe']</s>
+<s>[INST]something for making homemade pho[/INST]['pho bowls', 'pho noodles']</s>
+<s>[INST]something for a home gym setup[/INST]['adjustable dumbbell set', 'exercise mat']</s>
+<s>[INST]something for making a stir fry[/INST]['wok', 'spatula']</s>
+<s>[INST]something for a productive home office[/INST]['standing desk', 'ergonomic office chair']</s>
+<s>[INST]something for a camping trip[/INST]['fourseason camping tent', 'lightweight sleeping bag']</s>
+<s>[INST]something for making homemade fruit preserves[/INST]['preserving jars', 'pectin']</s>
+<s>[INST]something for storing leftovers[/INST]['food storage containers', 'silicone food covers']</s>
+<s>[INST]something for making quesadillas[/INST]['quesadilla maker', 'quesadilla press']</s>
+<s>[INST]something for a fitness journey[/INST]['fitness tracker', 'yoga mat']</s>
+<s>[INST]something for a techsavvy traveler[/INST]['travel adapter', 'portable ssd']</s>
+<s>[INST]something for making homemade salad dressing[/INST]['salad dressing shaker', 'olive oil and vinegar bottles']</s>
+<s>[INST]something for a bedroom decor update[/INST]['area rug', 'decorative throw pillows']</s>
+<s>[INST]something for enhancing home decor[/INST]['artificial plants', 'decorative vases']</s>
+<s>[INST]something for a healthy smoothie bowl[/INST]['acai bowl ingredients', 'superfood toppings']</s>
+<s>[INST]something for eating soup or cereal[/INST]['soup spoon', 'cereal bowl']</s>
+<s>[INST]something for making homemade pickles[/INST]['pickling jars', 'pickling spices']</s>
+<s>[INST]something for playing guitar[/INST]['guitar tuner', 'guitar picks', 'capo']</s>
+<s>[INST]something for making homemade stew[/INST]['stew pot', 'stew ingredients meat', 'vegetables']</s>
+<s>[INST]something for a scenic camping trip[/INST]['camping tent', 'portable camping chairs']</s>
+<s>[INST]something for chopping vegetables[/INST]['chefs knife', 'vegetable chopper']</s>
+<s>[INST]something for a productive kitchen[/INST]['food processor', 'chefs knife']</s>
+<s>[INST]something for making homemade pasta salad[/INST]['pasta strainer', 'pasta noodles']</s>
+<s>[INST]something for an intimate dinner party[/INST]['wine decanter', 'cheese board set']</s>
+<s>[INST]something for a road trip adventure[/INST]['car cooler', 'travel pillows']</s>
+<s>[INST]something for cutting pizza[/INST]['pizza cutter', 'pizza stone']</s>
+<s>[INST]something for peeling potatoes[/INST]['vegetable peeler', 'potato peeler']</s>
+<s>[INST]something for coffee lovers[/INST]['coffee grinder', 'french press', 'coffee mugs']</s>
+<s>[INST]something for a backyard party[/INST]['outdoor string lights', 'portable speaker']</s>
+<s>[INST]something for a weekend camping trip[/INST]['portable camping stove', 'foldable chairs']</s>
+<s>[INST]something for a cozy movie night[/INST]['popcorn seasoning set', 'cozy blanket']</s>
+<s>[INST]something for sharpening knives[/INST]['knife sharpener', 'honing steel']</s>
+<s>[INST]something for making homemade rice dishes[/INST]['rice cooker', 'rice varieties']</s>
+<s>[INST]something for a musical evening[/INST]['acoustic guitar', 'music stand']</s>
+<s>[INST]something for making homemade sushi rolls[/INST]['sushi rolling mat', 'sushi rice']</s>
+<s>[INST]something for a peaceful sleep[/INST]['memory foam pillow', 'blackout curtains']</s>
+<s>[INST]something for a delicious dessert making[/INST]['kitchen torch', 'silicone baking molds']</s>
+<s>[INST]something for making homemade tikka masala[/INST]['curry pot', 'tikka']</s>
+<s>[INST]something for making crepes[/INST]['crepe pan', 'batter spreader']</s>
+<s>[INST]something for a quiet meditation corner[/INST]['meditation cushion', 'essential oil diffuser']</s>
+<s>[INST]something for a productive study session[/INST]['noisecancelling headphones', 'desk organizer']</s>
+<s>[INST]something for a homemade pizza night[/INST]['pizza stone', 'pizza cutter']</s>
+<s>[INST]something for a cozy nights sleep[/INST]['fluffy pillow', 'soft blanket', 'sleep mask']</s>
+<s>[INST]something for a backyard bbq party[/INST]['bbq smoker', 'grilling tool set']</s>
+<s>[INST]something for slicing bread evenly[/INST]['serrated bread knife', 'bread slicer']</s>
+<s>[INST]something for making homemade vegetable broth[/INST]['stock pot', 'vegetable scraps']</s>
+<s>[INST]something for a road trip[/INST]['car phone mount', 'travel neck pillow']</s>
+<s>[INST]something for baking cookies[/INST]['baking sheet', 'mixing bowl', 'cookie cutter']</s>
+<s>[INST]something for making homemade nut butter[/INST]['food processor', 'mixed nuts']</s>
+<s>[INST]something for a focused study session[/INST]['desk lamp with usb port', 'desk organizer']</s>
+<s>[INST]searching for ecofriendly kitchenware[/INST]['bamboo utensil set', 'stainless steel reusable straws']</s>
+<s>[INST]something for a creative art project[/INST]['watercolor paint set', 'sketchbook']</s>
+<s>[INST]looking for a tech gadget to track fitness activities[/INST]['smart fitness tracker', 'gps smartwatch']</s>
+<s>[INST]something for making homemade tempura[/INST]['deep fryer', 'tempura batter']</s>
+<s>[INST]something for making homemade stir fry[/INST]['wok', 'stir fry sauce']</s>
+<s>[INST]looking for educational toys for a yearold[/INST]['stem building blocks', 'interactive learning tablet']</s>
+<s>[INST]something for making homemade vegetable chips[/INST]['mandoline slicer', 'baking sheet']</s>
+<s>[INST]need travel essentials for a backpacking trip[/INST]['lightweight camping tent', 'compact sleeping bag']</s>
+<s>[INST]something for making homemade baby food[/INST]['baby food maker', 'baby food storage containers']</s>
+<s>[INST]something for a coastal vacation[/INST]['sunhat', 'beach tote bag']</s>
+<s>[INST]want to upgrade my gaming setup[/INST]['gaming mouse', 'rgb mechanical keyboard']</s>
+<s>[INST]something for a crafters paradise[/INST]['sewing machine', 'crafting supplies set']</s>
+<s>[INST]something for making homemade granola[/INST]['baking sheet', 'mason jars']</s>
+<s>[INST]something for making homemade satay[/INST]['skewers', 'satay marinade']</s>
+<s>[INST]something for making cocktails[/INST]['cocktail shaker', 'muddler', 'jigger']</s>
+<s>[INST]something for making homemade candy[/INST]['candy molds', 'candy thermometer']</s>
+<s>[INST]something for a tropical getaway[/INST]['travel sunscreen', 'inflatable pool float']</s>
+<s>[INST]something for making homemade miso soup[/INST]['miso paste', 'tofu and seaweed']</s>
+<s>[INST]something for an outdoor adventure[/INST]['hiking boots', 'backpack']</s>
+<s>[INST]item for organizing a home office space[/INST]['ergonomic office chair', 'adjustable desk organizer']</s>
+<s>[INST]something for a game night[/INST]['board games', 'snacks']</s>
+<s>[INST]something for a mindful yoga practice[/INST]['yoga strap', 'meditation cushion']</s>
+<s>[INST]something for steaming vegetables[/INST]['steamer basket', 'silicone steamer']</s>
+<s>[INST]something for making fresh juice[/INST]['juicer', 'citrus squeezer']</s>
+<s>[INST]something for making homemade guacamole[/INST]['avocado masher', 'avocado saver']</s>
+<s>[INST]something for a movie night[/INST]['popcorn maker', 'cozy blanket']</s>
+<s>[INST]something for making homemade ice pops[/INST]['ice pop molds', 'fruit juice or puree']</s>
+<s>[INST]something for making homemade protein shakes[/INST]['blender bottle', 'protein powder']</s>
+<s>[INST]something for whipping cream[/INST]['whisk', 'electric hand mixer']</s>
+<s>[INST]something to organize spices[/INST]['spice rack', 'spice jars with labels']</s>
+<s>[INST]something to make smoothies[/INST]['blender', 'handheld immersion blender']</s>
+<s>[INST]something for making homemade fruit salad[/INST]['fruit bowl', 'fruit slicer']</s>
+<s>[INST]something for diy crafts[/INST]['glue gun', 'craft paper', 'scissors']</s>
+<s>[INST]something for making homemade pesto[/INST]['mortar and pestle', 'basil leaves']</s>
+<s>[INST]something for a cocktail party[/INST]['cocktail shaker', 'martini glasses']</s>
+<s>[INST]something for baking[/INST]['measuring cups', 'silicone baking mats']</s>
+<s>[INST]something for making homemade udon[/INST]['udon bowls', 'udon noodles']</s>
+<s>[INST]something for making homemade potato salad[/INST]['potato peeler', 'mayo and mustard']</s>
+<s>[INST]something for a beach day with friends[/INST]['beach umbrella', 'beach towels']</s>
+<s>[INST]something for making homemade smoothie bowls[/INST]['blender', 'granola toppings']</s>
+<s>[INST]something for grilling burgers[/INST]['burger press', 'grill press']</s>
+<s>[INST]something for grilling vegetables[/INST]['vegetable grill basket', 'grill pan']</s>
+<s>[INST]something for grilling fish[/INST]['fish grill basket', 'fish spatula']</s>
+<s>[INST]something for cutting watermelon[/INST]['watermelon slicer', 'watermelon knife']</s>
+<s>[INST]something for making homemade dumplings[/INST]['dumpling press', 'dumpling wrappers']</s>
+<s>[INST]something for making sushi rolls[/INST]['sushi knife', 'sushi rolling mat']</s>
+<s>[INST]something for making homemade hummus[/INST]['food processor', 'chickpeas']</s>
+<s>[INST]something for whisking eggs or batter[/INST]['wire whisk', 'electric hand mixer']</s>
+<s>[INST]something for a fresh morning start[/INST]['citrus juicer', 'french press coffee maker']</s>
+<s>[INST]something for grating vegetables[/INST]['vegetable spiralizer', 'box grater']</s>
+<s>[INST]something for serving salads[/INST]['salad bowl', 'serve tongs']</s>
+<s>[INST]something for slow cooking[/INST]['slow cooker', 'slow cooker liners']</s>
+<s>[INST]something for making homemade butter[/INST]['butter churn', 'butter molds']</s>
+<s>[INST]something for making smoothies[/INST]['blender', 'portable blender']</s>
+<s>[INST]something for making homemade paella[/INST]['paella pan', 'paella ingredients rice', 'saffron']</s>
+<s>[INST]something for making homemade curry[/INST]['curry pot', 'curry paste']</s>
+<s>[INST]something for a fun beach day[/INST]['beach toys', 'beach umbrella']</s>
+<s>[INST]something for mixing ingredients[/INST]['mixing bowls', 'electric hand mixer']</s>
+<s>[INST]something for making homemade pad thai[/INST]['wok', 'pad thai sauce']</s>
+<s>[INST]something for a backyard picnic[/INST]['picnic basket', 'picnic blanket']</s>
+<s>[INST]something for making homemade ice cream[/INST]['ice cream maker', 'ice cream scoop']</s>
+<s>[INST]something for making homemade fruit smoothies[/INST]['blender', 'frozen fruit']</s>
+<s>[INST]something for making homemade pizza[/INST]['pizza stone', 'pizza peel']</s>
+<s>[INST]something for making homemade beef broth[/INST]['stock pot', 'beef bones']</s>
+<s>[INST]something for baking pizzas[/INST]['pizza stone', 'pizza cutter']</s>
+<s>[INST]something for cleaning windows[/INST]['window squeegee', 'glass cleaner solution']</s>
+<s>[INST]something for a virtual workout[/INST]['fitness tracker', 'resistance bands']</s>
+<s>[INST]something for making homemade cake pops[/INST]['cake pop molds', 'cake pop sticks']</s>
+<s>[INST]something for a stylish outfit[/INST]['statement earrings', 'leather handbag']</s>
+<s>[INST]something for a diy home improvement project[/INST]['power drill', 'toolbox']</s>
+<s>[INST]something for making homemade fudge[/INST]['fudge pan', 'fudge toppings']</s>
+<s>[INST]something for baking pies[/INST]['pie dish', 'pie weights']</s>
+<s>[INST]something for a virtual meeting[/INST]['webcam', 'noisecancelling microphone']</s>
+<s>[INST]something for making omelettes[/INST]['omelette pan', 'egg whisk']</s>
+<s>[INST]something for roasting[/INST]['roasting pan', 'roasting rack']</s>
+<s>[INST]need something cozy for a winter evening at home[/INST]['faux fur blanket', 'electric fireplace']</s>
+<s>[INST]something for a coastal road trip[/INST]['car roof rack', 'beach towels']</s>
+<s>[INST]something for a beach vacation[/INST]['sun hat', 'beach umbrella']</s>
+<s>[INST]something for making homemade bibimbap[/INST]['stone bowl', 'bibimbap toppings rice', 'vegetables']</s>
+<s>[INST]something for cleaning floors[/INST]['broom', 'mop', 'vacuum cleaner']</s>
+<s>[INST]something for a tech gadget lover[/INST]['smartwatch', 'wireless earbuds']</s>
+<s>[INST]something to brew coffee[/INST]['coffee maker', 'coffee grinder']</s>
+<s>[INST]something for making homemade chicken broth[/INST]['stock pot', 'chicken bones']</s>
+<s>[INST]something for a backyard garden party[/INST]['outdoor string lights', 'garden table set']</s>
+<s>[INST]something for meal prep[/INST]['meal prep containers', 'meal prep bag']</s>
+<s>[INST]something for making homemade risotto[/INST]['risotto pan', 'arborio rice']</s>
+<s>[INST]something for canning[/INST]['canning jars', 'canning funnel', 'canning tongs']</s>
+<s>[INST]something for making sushi[/INST]['sushi mat', 'sushi knife', 'bamboo rolling mat']</s>
+<s>[INST]something for making homemade protein bars[/INST]['protein bar molds', 'protein powder']</s>
 <s>[INST]something for making homemade salsa[/INST]['food processor', 'salsa jars']</s>
 <s>[INST]something for making homemade jam[/INST]['jam jars', 'canning funnel']</s>
-<s>[INST]something for making homemade pickles[/INST]['pickling jars', 'pickling spices']</s>
-<s>[INST]something for making homemade yogurt[/INST]['yogurt maker', 'yogurt starter']</s>
-<s>[INST]something for making homemade butter[/INST]['butter churn', 'butter molds']</s>
-<s>[INST]something for making homemade granola[/INST]['baking sheet', 'mason jars']</s>
-<s>[INST]something for making homemade hummus[/INST]['food processor', 'chickpeas']</s>
-<s>[INST]something for making homemade guacamole[/INST]['avocado masher', 'avocado saver']</s>
-<s>[INST]something for making homemade pesto[/INST]['mortar and pestle', 'basil leaves']</s>
-<s>[INST]something for making homemade bread crumbs[/INST]['food processor', 'bread slices']</s>
-<s>[INST]something for making homemade salad dressing[/INST]['salad dressing shaker', 'olive oil and vinegar bottles']</s>
-<s>[INST]something for making homemade smoothie bowls[/INST]['blender', 'granola toppings']</s>
-<s>[INST]something for making homemade nut butter[/INST]['food processor', 'mixed nuts']</s>
-<s>[INST]something for making homemade protein bars[/INST]['protein bar molds', 'protein powder']</s>
-<s>[INST]something for making homemade energy balls[/INST]['food processor', 'dates and nuts']</s>
-<s>[INST]something for making homemade yogurt parfait[/INST]['parfait glasses', 'granola toppings']</s>
-<s>[INST]something for making homemade protein shakes[/INST]['blender bottle', 'protein powder']</s>
-<s>[INST]something for making homemade pasta salad[/INST]['pasta strainer', 'pasta noodles']</s>
-<s>[INST]something for making homemade coleslaw[/INST]['cole slaw shredder', 'cabbage and carrots']</s>
-<s>[INST]something for making homemade potato salad[/INST]['potato peeler', 'mayo and mustard']</s>
-<s>[INST]something for making homemade chocolate truffles[/INST]['truffle molds', 'chocolate ganache']</s>
-<s>[INST]something for making homemade cake pops[/INST]['cake pop molds', 'cake pop sticks']</s>
-<s>[INST]something for making homemade candy[/INST]['candy molds', 'candy thermometer']</s>
-<s>[INST]something for making homemade fudge[/INST]['fudge pan', 'fudge toppings']</s>
-<s>[INST]something for making homemade ice pops[/INST]['ice pop molds', 'fruit juice or puree']</s>
-<s>[INST]something for making homemade fruit preserves[/INST]['preserving jars', 'pectin']</s>
-<s>[INST]something for making homemade fruit leather[/INST]['dehydrator', 'fruit puree']</s>
-<s>[INST]something for making homemade fruit salad[/INST]['fruit bowl', 'fruit slicer']</s>
-<s>[INST]something for making homemade vegetable chips[/INST]['mandoline slicer', 'baking sheet']</s>
-<s>[INST]something for making homemade fruit smoothies[/INST]['blender', 'frozen fruit']</s>
-<s>[INST]something for making homemade vegetable broth[/INST]['stock pot', 'vegetable scraps']</s>
-<s>[INST]something for making homemade chicken broth[/INST]['stock pot', 'chicken bones']</s>
-<s>[INST]something for making homemade beef broth[/INST]['stock pot', 'beef bones']</s>
-<s>[INST]something for making homemade bone broth[/INST]['stock pot', 'beef or chicken bones']</s>
-<s>[INST]something for making homemade soup[/INST]['soup pot', 'immersion blender']</s>
 <s>[INST]something for making homemade chili[/INST]['chili pot', 'chili spices']</s>
-<s>[INST]something for making homemade stew[/INST]['stew pot', 'stew ingredients meat', 'vegetables']</s>
-<s>[INST]something for making homemade curry[/INST]['curry pot', 'curry paste']</s>
-<s>[INST]something for making homemade rice dishes[/INST]['rice cooker', 'rice varieties']</s>
-<s>[INST]something for making homemade paella[/INST]['paella pan', 'paella ingredients rice', 'saffron']</s>
-<s>[INST]something for making homemade risotto[/INST]['risotto pan', 'arborio rice']</s>
-<s>[INST]something for making homemade stir fry[/INST]['wok', 'stir fry sauce']</s>
-<s>[INST]something for making homemade sushi rolls[/INST]['sushi rolling mat', 'sushi rice']</s>
-<s>[INST]something for making homemade pad thai[/INST]['wok', 'pad thai sauce']</s>
-<s>[INST]something for making homemade tempura[/INST]['deep fryer', 'tempura batter']</s>
-<s>[INST]something for making homemade dumplings[/INST]['dumpling press', 'dumpling wrappers']</s>
-<s>[INST]something for making homemade ramen[/INST]['ramen bowls', 'ramen noodles']</s>
-<s>[INST]something for making homemade udon[/INST]['udon bowls', 'udon noodles']</s>
-<s>[INST]something for making homemade pho[/INST]['pho bowls', 'pho noodles']</s>
-<s>[INST]something for making homemade miso soup[/INST]['miso paste', 'tofu and seaweed']</s>
-<s>[INST]something for making homemade bibimbap[/INST]['stone bowl', 'bibimbap toppings rice', 'vegetables']</s>
-<s>[INST]something for making homemade satay[/INST]['skewers', 'satay marinade']</s>
-<s>[INST]something for making homemade tikka masala[/INST]['curry pot', 'tikka']</s>
-<s>[INST]something for outdoor camping[/INST]['tent', 'sleeping bag', 'portable stove']</s>
-<s>[INST]something for brewing coffee[/INST]['coffee grinder', 'french press', 'espresso machine']</s>
-<s>[INST]something for cleaning floors[/INST]['broom', 'mop', 'vacuum cleaner']</s>
-<s>[INST]something for gardening[/INST]['gardening gloves', 'shovel', 'pruning shears']</s>
-<s>[INST]something for organizing a closet[/INST]['storage bins', 'hangers', 'shoe rack']</s>
-<s>[INST]something for painting walls[/INST]['paint roller', 'paintbrush set', 'drop cloth']</s>
-<s>[INST]something for a cozy nights sleep[/INST]['fluffy pillow', 'soft blanket', 'sleep mask']</s>
-<s>[INST]something for diy crafts[/INST]['glue gun', 'craft paper', 'scissors']</s>
-<s>[INST]something for playing guitar[/INST]['guitar tuner', 'guitar picks', 'capo']</s>
-<s>[INST]something for cleaning windows[/INST]['window squeegee', 'glass cleaner solution']</s>
-<s>[INST]something for a cozy night in[/INST]['soft blanket', 'scented candles']</s>
-<s>[INST]something for a backyard barbecue[/INST]['charcoal grill', 'bbq tool set']</s>
-<s>[INST]something for an outdoor adventure[/INST]['hiking boots', 'backpack']</s>
-<s>[INST]something for a refreshing shower[/INST]['rainfall showerhead', 'aromatherapy shower gel']</s>
-<s>[INST]something for a movie night[/INST]['popcorn maker', 'comfy couch']</s>
-<s>[INST]something for a creative art project[/INST]['acrylic paint set', 'canvas']</s>
-<s>[INST]something for a summer workout[/INST]['resistance bands', 'water bottle']</s>
-<s>[INST]something for a stylish outfit[/INST]['statement earrings', 'leather handbag']</s>
-<s>[INST]something for a productive workday[/INST]['standing desk', 'ergonomic chair']</s>
-<s>[INST]something for a weekend camping trip[/INST]['portable camping stove', 'foldable chairs']</s>
-<s>[INST]something for a fresh morning start[/INST]['citrus juicer', 'french press coffee maker']</s>
-<s>[INST]something for a road trip[/INST]['car phone mount', 'travel guidebook']</s>
-<s>[INST]something for a relaxing bath[/INST]['bath bombs', 'plush bathrobe']</s>
-<s>[INST]something for a healthy breakfast[/INST]['blender for smoothies', 'organic granola']</s>
-<s>[INST]something for a game night[/INST]['board games', 'snacks']</s>
-<s>[INST]something for a virtual meeting[/INST]['webcam', 'noisecancelling microphone']</s>
-<s>[INST]something for a coastal vacation[/INST]['beach umbrella', 'snorkeling gear']</s>
-<s>[INST]something for a productive study session[/INST]['noisecancelling headphones', 'desk organizer']</s>
-<s>[INST]something for a cocktail party[/INST]['cocktail shaker', 'martini glasses']</s>
-<s>[INST]something for a kitchen upgrade[/INST]['air fryer', 'knife set']</s>
-<s>[INST]something for a weekend brunch[/INST]['waffle maker', 'mimosa glasses']</s>
-<s>[INST]something for a backyard garden[/INST]['watering can', 'gardening shovel']</s>
-<s>[INST]something for a techsavvy traveler[/INST]['travel router', 'portable ssd']</s>
-<s>[INST]something for a peaceful yoga practice[/INST]['yoga bolster', 'meditation cushion']</s>
-<s>[INST]something for a green smoothie lover[/INST]['highspeed blender', 'reusable straws']</s>
-<s>[INST]something for a crafty diy project[/INST]['hot glue gun', 'craft paper assortment']</s>
-<s>[INST]something for a sunny beach day[/INST]['beach umbrella', 'cooler tote']</s>
-<s>[INST]something for a productive remote work setup[/INST]['adjustable standing desk', 'ergonomic chair']</s>
-<s>[INST]something for an ecofriendly lifestyle[/INST]['reusable water bottle', 'bamboo utensil set']</s>
-<s>[INST]something for a vibrant succulent garden[/INST]['terracotta pots', 'succulent soil mix']</s>
-<s>[INST]something for a cozy winter evening[/INST]['electric blanket', 'hot chocolate mix']</s>
-<s>[INST]something for a rainy day indoors[/INST]['puzzle board', 'cozy throw blanket']</s>
-<s>[INST]something for a camping trip[/INST]['camping tent', 'sleeping bag']</s>
-<s>[INST]something for a refreshing morning routine[/INST]['citrus juicer', 'french press coffee maker']</s>
-<s>[INST]something for a music lovers space[/INST]['vinyl record player', 'bluetooth speakers']</s>
-<s>[INST]something for a baking enthusiast[/INST]['kitchenaid stand mixer', 'baking essentials set']</s>
-<s>[INST]something for a home gym setup[/INST]['adjustable dumbbell set', 'exercise mat']</s>
-<s>[INST]something for a sustainable kitchen[/INST]['compost bin', 'reusable beeswax wraps']</s>
-<s>[INST]something for a cocktail mixing enthusiast[/INST]['mixology kit', 'cocktail glasses']</s>
-<s>[INST]something for a cozy reading nook[/INST]['bookshelf', 'reading chair']</s>
-<s>[INST]something for a stylish wardrobe update[/INST]['statement necklace', 'designer handbag']</s>
-<s>[INST]something for a refreshing skincare routine[/INST]['facial steamer', 'jade roller']</s>
-<s>[INST]something for a playful pet[/INST]['interactive dog toy', 'cat tree']</s>
-<s>[INST]something for a quiet meditation corner[/INST]['meditation cushion', 'essential oil diffuser']</s>
-<s>[INST]something for a healthy lunch prep[/INST]['salad spinner', 'bento box']</s>
-<s>[INST]something for an organized workspace[/INST]['desk organizer', 'wireless charging pad']</s>
-<s>[INST]something for a cozy movie marathon[/INST]['popcorn maker', 'oversized bean bag chair']</s>
-<s>[INST]something for a backyard party[/INST]['outdoor string lights', 'portable speaker']</s>
-<s>[INST]something for a bedroom decor update[/INST]['accent rug', 'decorative throw pillows']</s>
-<s>[INST]something for a delicious dessert making[/INST]['kitchen torch', 'silicone baking molds']</s>
-<s>[INST]something for a mindful meditation practice[/INST]['meditation cushion', 'aromatherapy diffuser']</s>
-<s>[INST]something for a gaming setup[/INST]['gaming chair', 'gaming headset']</s>
-<s>[INST]something for a beach day[/INST]['beach umbrella', 'insulated cooler bag']</s>
-<s>[INST]something for a warming winter soup[/INST]['immersion blender', 'soup pot']</s>
-<s>[INST]something for a productive home office[/INST]['standing desk', 'ergonomic office chair']</s>
-<s>[INST]something for a backyard bbq[/INST]['bbq grill', 'grill tool set']</s>
-<s>[INST]something for a tropical vacation[/INST]['sunhat', 'beach tote bag']</s>
-<s>[INST]something for a morning coffee ritual[/INST]['pourover coffee maker', 'milk frother']</s>
-<s>[INST]something for a creative writing session[/INST]['leather journal', 'fountain pen']</s>
-<s>[INST]something for a highenergy workout[/INST]['jump rope', 'kettlebell']</s>
-<s>[INST]something for a casual weekend brunch[/INST]['avocado slicer', 'mimosa glasses']</s>
-<s>[INST]something for a beach day with kids[/INST]['beach toys', 'sun shelter tent']</s>
-<s>[INST]something for a home spa day[/INST]['bath bombs', 'plush bathrobe']</s>
-<s>[INST]something for a garden party[/INST]['outdoor string lights', 'portable speaker']</s>
-<s>[INST]something for a cozy knitting session[/INST]['yarn set', 'knitting needles']</s>
-<s>[INST]something for a petfriendly home[/INST]['pet hair vacuum', 'petfriendly rug']</s>
-<s>[INST]something for a mindful yoga practice[/INST]['yoga strap', 'meditation cushion']</s>
-<s>[INST]something for a road trip adventure[/INST]['car cooler', 'travel pillows']</s>
-<s>[INST]something for an outdoor picnic[/INST]['picnic basket', 'picnic blanket']</s>
-<s>[INST]something for a healthy smoothie bowl[/INST]['acai bowl ingredients', 'superfood toppings']</s>
-<s>[INST]something for an intimate dinner party[/INST]['wine decanter', 'cheese board set']</s>
-<s>[INST]something for a productive work session[/INST]['ergonomic office chair', 'wireless keyboard']</s>
-<s>[INST]something for a relaxing bubble bath[/INST]['bath tray', 'scented bath bubbles']</s>
-<s>[INST]something for a home workout[/INST]['resistance bands', 'yoga mat']</s>
-<s>[INST]something for a family camping trip[/INST]['familysized tent', 'camping stove']</s>
-<s>[INST]something for a peaceful reading time[/INST]['bookshelf', 'reading chair']</s>
-<s>[INST]something for an adventurous hike[/INST]['hiking boots', 'hydration backpack']</s>
-<s>[INST]something for a homemade pizza night[/INST]['pizza stone', 'pizza peel']</s>
-<s>[INST]something for a tropical getaway[/INST]['travel sunscreen', 'inflatable pool float']</s>
-<s>[INST]something for a tech gadget lover[/INST]['smartwatch', 'wireless earbuds']</s>
-<s>[INST]something for a productive kitchen[/INST]['food processor', 'chefs knife']</s>
-<s>[INST]something for a fun beach day[/INST]['beach toys', 'beach umbrella']</s>
-<s>[INST]something for a musical evening[/INST]['ukulele', 'music stand']</s>
-<s>[INST]something for a virtual workout[/INST]['fitness tracker', 'resistance bands']</s>
-<s>[INST]something for a backyard picnic[/INST]['picnic basket', 'picnic blanket']</s>
-<s>[INST]something for a home office setup[/INST]['ergonomic chair', 'adjustable standing desk']</s>
-<s>[INST]something for a new cooking hobby[/INST]['cast iron skillet', 'cookbook stand']</s>
-<s>[INST]something for a future travel adventure[/INST]['travel luggage', 'travel guidebooks']</s>
-<s>[INST]something for a peaceful sleep[/INST]['memory foam pillow', 'blackout curtains']</s>
-<s>[INST]something for a coastal road trip[/INST]['car roof rack', 'beach towels']</s>
-<s>[INST]something for a crafters paradise[/INST]['sewing machine', 'crafting supplies set']</s>
-<s>[INST]something for a mini home gym[/INST]['workout resistance bands', 'exercise mat']</s>
-<s>[INST]something for a backyard bbq party[/INST]['bbq smoker', 'grilling tool set']</s>
+<s>[INST]something for making homemade bone broth[/INST]['stock pot', 'beef or chicken bones']</s>
+<s>[INST]something for making pancakes[/INST]['pancake griddle', 'pancake batter dispenser']</s>
+<s>[INST]something for making waffles[/INST]['waffle maker', 'waffle mix']</s>
 <s>[INST]something for a game night with friends[/INST]['poker set', 'board games']</s>
-<s>[INST]something for a scenic camping trip[/INST]['camping tent', 'portable camping chairs']</s>
-<s>[INST]something for a cozy movie night[/INST]['cozy throw blanket', 'popcorn maker']</s>
-<s>[INST]something for a backyard garden party[/INST]['outdoor string lights', 'garden table set']</s>
-<s>[INST]something for a healthy lifestyle[/INST]['yoga mat', 'healthy cookbooks']</s>
-<s>[INST]something for a festive party[/INST]['string lights', 'cocktail shaker']</s>
-<s>[INST]something for a beach vacation[/INST]['sun hat', 'beach umbrella']</s>
-<s>[INST]something for a beach day with friends[/INST]['beach umbrella', 'beach towels']</s>
-<s>[INST]something for a techsavvy lifestyle[/INST]['wireless charging pad', 'smart home speaker']</s>
-<s>[INST]something for enhancing home decor[/INST]['wall art', 'decorative throw pillows']</s>
-<s>[INST]something for a weekend getaway[/INST]['travel backpack', 'portable hammock']</s>
-<s>[INST]something for a fitness journey[/INST]['fitness tracker', 'resistance bands']</s>
-<s>[INST]something for a diy home improvement project[/INST]['power drill', 'toolset']</s>
-<s>[INST]something for a focused workday[/INST]['ergonomic desk chair', 'noisecancelling headphones']</s>
-<s>[INST]something for a focused study session[/INST]['noisecancelling headphones', 'desk organizer']</s>
-<s>[INST]something for upgrading home office setup[/INST]['dual monitor stand', 'ergonomic chair']</s>
-<s>[INST]something for a weekend escape[/INST]['compact travel hammock', 'portable picnic set']</s>
-<s>[INST]something for upgrading home decor[/INST]['artificial plants', 'decorative vases']</s>
+<s>[INST]something for cutting herbs[/INST]['herb scissors', 'herb stripper']</s>
+<s>[INST]something for making homemade energy balls[/INST]['food processor', 'dates and nuts']</s>
+<s>[INST]something for grilling corn on the cob[/INST]['corn on the cob holders', 'corn grill basket']</s>
+<s>[INST]something for roasting chicken[/INST]['roasting pan', 'basting brush']</s>
+<s>[INST]something for tea enthusiasts[/INST]['tea infuser', 'tea kettle', 'teapot']</s>
+<s>[INST]something for making homemade coleslaw[/INST]['cole slaw shredder', 'cabbage and carrots']</s>
+<s>[INST]something for chopping vegetables effectively[/INST]['sharp chefs knife', 'vegetable chopper']</s>
+<s>[INST]something for making homemade soup[/INST]['soup pot', 'immersion blender']</s>
+<s>[INST]musical instruments for beginners[/INST]['acoustic guitar starter kit', 'digital piano']</s>
+<s>[INST]something for baking muffins[/INST]['muffin tin', 'muffin liners']</s>
+<s>[INST]something for a new cooking hobby[/INST]['cast iron skillet', 'cookbook stand']</s>
+<s>[INST]something for barbecues[/INST]['grill skewers', 'meat thermometer', 'grill gloves']</s>
+<s>[INST]something for making homemade ramen[/INST]['ramen bowls', 'ramen noodles']</s>
