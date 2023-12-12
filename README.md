@@ -30,11 +30,7 @@ $ curl -X POST https://productsearchapi-vdvgfog7kq-uc.a.run.app/api/v1/search/pr
 }
 ```
 
-✅ The backend is in nodejs, to make it easier to deploy in Firebase functions.
-
 ✅ [Axesso - Amazon Data Service API Documentation (axesso) | RapidAPI] (https://rapidapi.com/axesso/api/axesso-amazon-data-service1/) is used to fetch products from Amazon. 
-
-✅ Appsmith to host our frontend https://app.appsmith.com/app/whazzat/home-6556f707c8bcd467b929daa4 
 
 ✅ The dataset is a mix of data collected manually and data synthesized using GPT-4 and MostlyAI
 
